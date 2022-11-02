@@ -6,17 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anim3shsinha&label=Profile%20views&color=0e75b6&style=flat" alt="anim3shsinha" /> </p>
 
-- 🌱 I’m currently learning **machine learning**
+- 🌱 I’m currently learning **ML**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anim3shSinha](https://github.com/Anim3shSinha)
+- 👨‍💻 My projects [Anim3shSinha](https://github.com/Anim3shSinha)
 
-- 💬 Ask me about **react, node, express**
+- 📫 Reach me at **animeshsinha1007@gmail.com**
 
-- 📫 How to reach me **animeshsinha1007@gmail.com**
+- 📄 My experiences [resume/cv](https://#)
 
-- 📄 Know about my experiences [https://internshala.com/student/resume?detail_source=resume_direct](https://internshala.com/student/resume?detail_source=resume_direct)
-
-- ⚡ Fun fact **I love playing chess in free time.**
+- ⚡ Fun fact **I always feels supercalifragilistic :).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

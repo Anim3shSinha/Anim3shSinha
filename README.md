@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 👨‍💻 My projects [Anim3shSinha](https://github.com/Anim3shSinha)
+- 👨‍💻 My projects [Anim3shSinha](https://github.com/Anim3shSinha?tab=repositories)
 
 - 📫 Reach me at **animeshsinha1007@gmail.com**
 

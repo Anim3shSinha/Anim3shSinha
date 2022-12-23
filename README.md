@@ -12,7 +12,7 @@
 
 - 📫 Reach me at **animeshsinha1007@gmail.com**
 
-- 📄 My experiences [resume/cv](https://#)
+- 📄 My experiences [resume/cv](http://shorturl.at/BIPW1)
 
 - ⚡ Fun fact **I always feels supercalifragilistic :).**
 

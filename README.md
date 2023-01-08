@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Animesh Kumar Sinha</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align= "right" alt= "Coding" width = "400" src = "https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
+<img align= "right" alt= "Coding" width = "450" src = "https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anim3shsinha&label=Profile%20views&color=0e75b6&style=flat" alt="anim3shsinha" /> </p>
 

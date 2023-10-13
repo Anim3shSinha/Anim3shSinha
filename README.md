@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Anim3shSinha](https://github.com/Anim3shSinha)
+- 👨‍💻 All of my projects are available at [Anim3shSinha](https://github.com/Anim3shSinha?tab=repositories)
 
 - 💬 Ask me about **react, node, php**
 

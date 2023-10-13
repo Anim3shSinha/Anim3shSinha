@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **animeshsinha1007@gmail.com**
 
-- 📄 Know about my experiences [here.]([https://internshala.com/student/resume?detail_source=resume_direct](https://docs.google.com/document/d/18r98QCLnvA4zxkxBL9pNDLO33tHDNCpi2wvJ65A2lCA/edit?usp=sharing))
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/18r98QCLnvA4zxkxBL9pNDLO33tHDNCpi2wvJ65A2lCA/edit?usp=sharing)
 
 - ⚡ Fun fact **I love playing chess in free time.**
 

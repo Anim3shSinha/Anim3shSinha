@@ -12,17 +12,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anim3shsinha&label=Profile%20views&color=0e75b6&style=flat" alt="anim3shsinha" /> </p>
 
-- 🔭 I’m currently working on **Product Recommendation System**
-
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anim3shSinha](https://github.com/Anim3shSinha)
+- 👨‍💻 All of my projects are available at [Anim3shSinha](https://github.com/Anim3shSinha)
 
 - 💬 Ask me about **react, node, php**
 
 - 📫 How to reach me **animeshsinha1007@gmail.com**
 
-- 📄 Know about my experiences [https://internshala.com/student/resume?detail_source=resume_direct](https://internshala.com/student/resume?detail_source=resume_direct)
+- 📄 Know about my experiences [here.]([https://internshala.com/student/resume?detail_source=resume_direct](https://docs.google.com/document/d/18r98QCLnvA4zxkxBL9pNDLO33tHDNCpi2wvJ65A2lCA/edit?usp=sharing))
 
 - ⚡ Fun fact **I love playing chess in free time.**
 
